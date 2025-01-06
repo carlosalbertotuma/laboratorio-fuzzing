@@ -3,10 +3,13 @@
 - git clone https://github.com/carlosalbertotuma/laboratorio-fuzzing.git
 - cd laboratorio-fuzzin
 - sudo apt update
+- sudo apt install apache2 php libapache2-mod-php php-cli
+- php -v
+- sudo a2enmod php  ou sudo a2enmod php8.2
 - sudo apt install unrar
 - unrar x laboratorio-fuzzin.rar
 - sudo cp -r * /var/www/html/
-
+- sudo service apache2 restart
 
 ![image](https://github.com/user-attachments/assets/73c8e711-0e0e-46bc-9014-4f6b2d65623d)
 
