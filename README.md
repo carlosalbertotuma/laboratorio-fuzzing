@@ -1,7 +1,7 @@
 # laboratorio-fuzzing
 
 - git clone https://github.com/carlosalbertotuma/laboratorio-fuzzing.git
-- cd laboratorio-fuzzin
+- cd laboratorio-fuzzing
 - sudo apt update
 - sudo apt install apache2 php libapache2-mod-php php-cli
 - php -v
