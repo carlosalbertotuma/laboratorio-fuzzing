@@ -7,7 +7,7 @@
 - php -v
 - sudo a2enmod php  ou sudo a2enmod php8.2
 - sudo apt install unrar
-- unrar x laboratorio-fuzzin.rar
+- unrar x laboratorio.rar
 - sudo cp -r * /var/www/html/
 - sudo service apache2 restart
 
