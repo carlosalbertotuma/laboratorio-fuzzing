@@ -3,7 +3,7 @@
 - git clone https://github.com/carlosalbertotuma/laboratorio-fuzzing.git
 - cd laboratorio-fuzzing
 - sudo apt update
-- sudo apt install apache2 php libapache2-mod-php php-cli
+- sudo apt install apache2 php libapache2-mod-php php-cli iproute2 -y
 - php -v
 - sudo a2enmod php  ou sudo a2enmod php8.2
 - sudo apt install unrar
